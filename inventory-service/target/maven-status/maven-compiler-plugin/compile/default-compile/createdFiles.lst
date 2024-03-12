@@ -1,0 +1,7 @@
+com\bikas\inventoryservice\repository\InventoryRepository.class
+com\bikas\inventoryservice\dto\InventoryResponse.class
+com\bikas\inventoryservice\InventoryServiceApplication.class
+com\bikas\inventoryservice\service\InventoryService.class
+com\bikas\inventoryservice\model\Inventory.class
+com\bikas\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\bikas\inventoryservice\controller\InventoryController.class

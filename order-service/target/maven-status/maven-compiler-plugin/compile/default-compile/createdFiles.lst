@@ -1,0 +1,13 @@
+com\bikas\orderservice\dto\OrderRequest$OrderRequestBuilder.class
+com\bikas\orderservice\dto\OrderLineItemsDto.class
+com\bikas\orderservice\model\OrderLineItems.class
+com\bikas\orderservice\model\Order.class
+com\bikas\orderservice\dto\OrderRequest.class
+com\bikas\orderservice\controller\OrderController.class
+com\bikas\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\bikas\orderservice\dto\InventoryResponse.class
+com\bikas\orderservice\service\OrderService.class
+com\bikas\orderservice\config\WebClientConfig.class
+com\bikas\orderservice\repository\OrderRepo.class
+com\bikas\orderservice\OrderServiceApplication.class
+com\bikas\orderservice\model\OrderLineItems$OrderLineItemsBuilder.class

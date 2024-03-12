@@ -1,0 +1,10 @@
+com\bikas\productservice\service\ProductService.class
+com\bikas\productservice\model\Product$ProductBuilder.class
+com\bikas\productservice\dto\ProductResponse$ProductResponseBuilder.class
+com\bikas\productservice\dto\ProductResponse.class
+com\bikas\productservice\controller\ProductConroller.class
+com\bikas\productservice\model\Product.class
+com\bikas\productservice\ProductServiceApplication.class
+com\bikas\productservice\repository\ProductRepo.class
+com\bikas\productservice\dto\ProductRequest$ProductRequestBuilder.class
+com\bikas\productservice\dto\ProductRequest.class
